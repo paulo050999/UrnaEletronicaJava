@@ -25,6 +25,5 @@ public abstract class Candidato {
         votos++;
     }
 
-    // Método abstrato que pode ser implementado pelas subclasses
     public abstract String getDescricao();
 }
