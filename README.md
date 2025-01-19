@@ -21,10 +21,6 @@ O programa permite realizar 10 votações antes de exibir os resultados finais.
 Ao término, os resultados serão exibidos no terminal, incluindo: Nome dos candidatos. Número de votos recebidos por cada um. Percentual de votos válidos. 
 O candidato vencedor ou uma mensagem indicando um empate.
 
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
 ## ✒️ Autores
 
 Paulo Douglas - (https://github.com/paulo050999))
